@@ -136,7 +136,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -147,7 +147,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -158,7 +158,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -169,7 +169,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -180,7 +180,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -191,7 +191,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -202,7 +202,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -213,7 +213,7 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].disabled = 'true';
                                                         }
                                                         let winner = document.createElement('h1');
-                                                        winner.innerHTML = 'First player won!';
+                                                        winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
@@ -326,7 +326,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
@@ -337,7 +337,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
@@ -348,7 +348,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
@@ -359,7 +359,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
@@ -370,7 +370,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
@@ -381,7 +381,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
@@ -392,7 +392,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
@@ -403,7 +403,7 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].disabled = 'true';
                                                                         }
                                                                         let winner = document.createElement('h1');
-                                                                        winner.innerHTML = 'First player won!';
+                                                                        winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
