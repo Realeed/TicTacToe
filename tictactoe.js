@@ -2,7 +2,7 @@ addEventListener('DOMContentLoaded', () => {
     document.body.style.userSelect = 'none';
     document.body.style.backgroundImage = 'url(tic.jpg)';
     document.body.style.backgroundSize = '100%';
-    const icon = document.createElement('link');
+    let icon = document.createElement('link');
     icon.rel = 'icon';
     icon.href = 'tac.png';
     document.head.append(icon)
