@@ -1,6 +1,12 @@
 addEventListener('DOMContentLoaded', () => {
     document.body.style.userSelect = 'none';
-    document.body.style.margin = '5%';
+    document.body.style.backgroundImage = 'url(tic.jpg)';
+    document.body.style.backgroundSize = '100%';
+    const icon = document.createElement('link');
+    icon.rel = 'icon';
+    icon.href = 'tac.png';
+    document.head.append(icon)
+    document.title = 'TicTacToe';
     for (let i = 0; i < 9; i++) {
         let button = document.getElementsByTagName('button');
         button[i].onclick = () => {
@@ -44,6 +50,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -65,6 +73,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -86,6 +96,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -107,6 +119,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -128,6 +142,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -149,6 +165,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -170,6 +188,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -191,6 +211,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 let winner = document.createElement('h1');
                                                 winner.innerHTML = 'First player won!';
                                                 winner.style.textAlign = 'center';
+                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                winner.style.backgroundSize = '100%';
                                                 winner.style.color = 'gray';
                                                 winner.style.fontSize = '80px';
                                                 document.body.append(winner);
@@ -219,6 +241,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -240,6 +264,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -261,6 +287,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -282,6 +310,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -303,6 +333,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -324,6 +356,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -345,6 +379,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -366,6 +402,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         let winner = document.createElement('h1');
                                                         winner.innerHTML = 'Second player won!';
                                                         winner.style.textAlign = 'center';
+                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                        winner.style.backgroundSize = '100%';
                                                         winner.style.color = 'gray';
                                                         winner.style.fontSize = '80px';
                                                         document.body.append(winner);
@@ -394,6 +432,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -415,6 +455,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -436,6 +478,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -457,6 +501,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -478,6 +524,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -499,6 +547,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -520,6 +570,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -541,6 +593,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 let winner = document.createElement('h1');
                                                                 winner.innerHTML = 'First player won!';
                                                                 winner.style.textAlign = 'center';
+                                                                winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                winner.style.backgroundSize = '100%';
                                                                 winner.style.color = 'gray';
                                                                 winner.style.fontSize = '80px';
                                                                 document.body.append(winner);
@@ -569,6 +623,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -590,6 +646,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -611,6 +669,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -632,6 +692,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -653,6 +715,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -674,6 +738,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -695,6 +761,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -716,6 +784,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         let winner = document.createElement('h1');
                                                                         winner.innerHTML = 'Second player won!';
                                                                         winner.style.textAlign = 'center';
+                                                                        winner.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                        winner.style.backgroundSize = '100%';
                                                                         winner.style.color = 'gray';
                                                                         winner.style.fontSize = '80px';
                                                                         document.body.append(winner);
@@ -740,6 +810,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                             let draw = document.createElement('h1');
                                                                             draw.innerHTML = 'It Was a Draw!';
                                                                             draw.style.textAlign = 'center';
+                                                                            draw.style.backgroundColor = 'rgb(237, 237, 237)';
+                                                                            draw.style.backgroundSize = '100%';
                                                                             draw.style.color = 'gray';
                                                                             draw.style.fontSize = '80px';
                                                                             document.body.append(draw);
