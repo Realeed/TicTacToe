@@ -7,6 +7,14 @@ addEventListener('DOMContentLoaded', () => {
             td[i].innerHTML = 'X';
             td[i].style.fontSize = '50px';
             td[i].style.textAlign = 'center';
+            for (let i = 0; i < 8; i++) {
+                button[i].onclick = () => {
+                    td[i].innerHTML = 'O';
+                    td[i].style.fontSize = '50px';
+                    td[i].style.textAlign = 'center';
+
+                }
+            }
         };
     }
 })
