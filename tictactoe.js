@@ -4,7 +4,7 @@ addEventListener('DOMContentLoaded', () => {
     document.body.style.backgroundSize = '100%';
     let icon = document.createElement('link');
     icon.rel = 'icon';
-    icon.href = 'tac.png';
+    icon.href = 'icon.png';
     document.head.append(icon)
     document.title = 'TicTacToe';
     for (let i = 0; i < 9; i++) {
