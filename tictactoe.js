@@ -1,7 +1,6 @@
 addEventListener('DOMContentLoaded', () => {
     document.body.style.userSelect = 'none';
     document.body.style.backgroundImage = 'url(tic.jpg)';
-    document.body.style.backfaceVisibility = 'hidden'
     document.body.style.backgroundSize = '100%';
     let icon = document.createElement('link');
     icon.rel = 'icon';
