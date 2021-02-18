@@ -8,6 +8,5 @@ addEventListener('DOMContentLoaded', () => {
             td[i].style.fontSize = '50px';
             td[i].style.textAlign = 'center';
         };
-        
     }
 })
