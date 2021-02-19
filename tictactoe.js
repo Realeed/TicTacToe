@@ -6,7 +6,7 @@ addEventListener('DOMContentLoaded', () => {
     icon.rel = 'icon';
     icon.href = 'icon.png';
     document.head.append(icon);
-    document.title = 'TicTacToe';
+    document.title = 'Tic-Tac-Toe';
     for (let i = 0; i < 9; i++) {
         let button = document.getElementsByTagName('button');
         button[i].onclick = () => {
