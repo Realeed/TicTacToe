@@ -16,6 +16,9 @@ addEventListener('DOMContentLoaded', () => {
             button[i].style.textAlign = 'center';
             button[i].style.color = 'black';
             button[i].disabled = 'true';
+            if (window.matchMedia('(max-width: 1600px)').matches) {
+                button[i].style.fontSize = '45px';
+            }
             for (let i = 0; i < 9; i++) {
                 button[i].onclick = () => {
                     button[i].innerHTML = 'O';
@@ -23,6 +26,9 @@ addEventListener('DOMContentLoaded', () => {
                     button[i].style.textAlign = 'center';
                     button[i].style.color = 'black';
                     button[i].disabled = 'true';
+                    if (window.matchMedia('(max-width: 1600px)').matches) {
+                        button[i].style.fontSize = '45px';
+                    }
                     for (let i = 0; i < 9; i++) {
                         button[i].onclick = () => {
                             button[i].innerHTML = 'X';
@@ -30,6 +36,9 @@ addEventListener('DOMContentLoaded', () => {
                             button[i].style.textAlign = 'center';
                             button[i].style.color = 'black';
                             button[i].disabled = 'true';
+                            if (window.matchMedia('(max-width: 1600px)').matches) {
+                                button[i].style.fontSize = '45px';
+                            }
                             for (let i = 0; i < 9; i++) {
                                 button[i].onclick = () => {
                                     button[i].innerHTML = 'O';
@@ -37,6 +46,9 @@ addEventListener('DOMContentLoaded', () => {
                                     button[i].style.textAlign = 'center';
                                     button[i].style.color = 'black';
                                     button[i].disabled = 'true';
+                                    if (window.matchMedia('(max-width: 1600px)').matches) {
+                                        button[i].style.fontSize = '45px';
+                                    }
                                     for (let i = 0; i < 9; i++) {
                                         button[i].onclick = () => {
                                             button[i].innerHTML = 'X';
@@ -44,6 +56,9 @@ addEventListener('DOMContentLoaded', () => {
                                             button[i].style.textAlign = 'center';
                                             button[i].style.color = 'black';
                                             button[i].disabled = 'true';
+                                            if (window.matchMedia('(max-width: 1600px)').matches) {
+                                                button[i].style.fontSize = '45px';
+                                            }
                                             if (button[0].innerHTML == button[1].innerHTML && button[1].innerHTML == button[2].innerHTML && button[0].innerHTML != '') {
                                                 for (let i = 0; i < 9; i++) {
                                                     button[i].disabled = 'true';
@@ -267,6 +282,9 @@ addEventListener('DOMContentLoaded', () => {
                                                     button[i].style.textAlign = 'center';
                                                     button[i].style.color = 'black';
                                                     button[i].disabled = 'true';
+                                                    if (window.matchMedia('(max-width: 1600px)').matches) {
+                                                        button[i].style.fontSize = '45px';
+                                                    }
                                                     if (button[0].innerHTML == button[1].innerHTML && button[1].innerHTML == button[2].innerHTML && button[0].innerHTML != '') {
                                                         for (let i = 0; i < 9; i++) {
                                                             button[i].disabled = 'true';
@@ -490,6 +508,9 @@ addEventListener('DOMContentLoaded', () => {
                                                             button[i].style.textAlign = 'center';
                                                             button[i].style.color = 'black';
                                                             button[i].disabled = 'true';
+                                                            if (window.matchMedia('(max-width: 1600px)').matches) {
+                                                                button[i].style.fontSize = '45px';
+                                                            }
                                                             if (button[0].innerHTML == button[1].innerHTML && button[1].innerHTML == button[2].innerHTML && button[0].innerHTML != '') {
                                                                 for (let i = 0; i < 9; i++) {
                                                                     button[i].disabled = 'true';
@@ -713,6 +734,9 @@ addEventListener('DOMContentLoaded', () => {
                                                                     button[i].style.textAlign = 'center';
                                                                     button[i].style.color = 'black';
                                                                     button[i].disabled = 'true';
+                                                                    if (window.matchMedia('(max-width: 1600px)').matches) {
+                                                                        button[i].style.fontSize = '45px';
+                                                                    }
                                                                     if (button[0].innerHTML == button[1].innerHTML && button[1].innerHTML == button[2].innerHTML && button[0].innerHTML != '') {
                                                                         for (let i = 0; i < 9; i++) {
                                                                             button[i].disabled = 'true';
@@ -936,6 +960,9 @@ addEventListener('DOMContentLoaded', () => {
                                                                             button[i].style.textAlign = 'center';
                                                                             button[i].style.color = 'black';
                                                                             button[i].disabled = 'true';
+                                                                            if (window.matchMedia('(max-width: 1600px)').matches) {
+                                                                                button[i].style.fontSize = '45px';
+                                                                            }
                                                                             let draw = document.createElement('h1');
                                                                             draw.innerHTML = 'It Was a Draw!';
                                                                             draw.style.textAlign = 'center';
