@@ -79,8 +79,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -106,8 +106,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -133,8 +133,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -160,8 +160,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -187,8 +187,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -214,8 +214,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -241,8 +241,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -268,8 +268,8 @@ addEventListener('DOMContentLoaded', () => {
                                                 replay.style.cursor = 'pointer';
                                                 document.body.append(replay);
                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                    winner.style.fontSize = '50px';
-                                                    replay.style.fontSize = '50px';
+                                                    winner.style.fontSize = '40px';
+                                                    replay.style.fontSize = '40px';
                                                 }
                                                 replay.onclick = () => {
                                                     window.location.reload();
@@ -305,8 +305,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -332,8 +332,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -359,8 +359,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -386,8 +386,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -413,8 +413,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -440,8 +440,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -467,8 +467,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -494,8 +494,8 @@ addEventListener('DOMContentLoaded', () => {
                                                         replay.style.cursor = 'pointer';
                                                         document.body.append(replay);
                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                            winner.style.fontSize = '50px';
-                                                            replay.style.fontSize = '50px';
+                                                            winner.style.fontSize = '40px';
+                                                            replay.style.fontSize = '40px';
                                                         }
                                                         replay.onclick = () => {
                                                             window.location.reload();
@@ -531,8 +531,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -558,8 +558,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -585,8 +585,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -612,8 +612,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -639,8 +639,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -666,8 +666,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -693,8 +693,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -720,8 +720,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                 replay.style.cursor = 'pointer';
                                                                 document.body.append(replay);
                                                                 if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                    winner.style.fontSize = '50px';
-                                                                    replay.style.fontSize = '50px';
+                                                                    winner.style.fontSize = '40px';
+                                                                    replay.style.fontSize = '40px';
                                                                 }
                                                                 replay.onclick = () => {
                                                                     window.location.reload();
@@ -757,8 +757,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -784,8 +784,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -811,8 +811,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -838,8 +838,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -865,8 +865,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -892,8 +892,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -919,8 +919,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -946,8 +946,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                         replay.style.cursor = 'pointer';
                                                                         document.body.append(replay);
                                                                         if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                            winner.style.fontSize = '50px';
-                                                                            replay.style.fontSize = '50px';
+                                                                            winner.style.fontSize = '40px';
+                                                                            replay.style.fontSize = '40px';
                                                                         }
                                                                         replay.onclick = () => {
                                                                             window.location.reload();
@@ -979,8 +979,8 @@ addEventListener('DOMContentLoaded', () => {
                                                                             replay.style.cursor = 'pointer';
                                                                             document.body.append(replay);
                                                                             if (window.matchMedia('(max-width: 1600px)').matches) {
-                                                                                draw.style.fontSize = '50px';
-                                                                                replay.style.fontSize = '50px';
+                                                                                draw.style.fontSize = '40px';
+                                                                                replay.style.fontSize = '40px';
                                                                             }
                                                                             replay.onclick = () => {
                                                                                 window.location.reload();
